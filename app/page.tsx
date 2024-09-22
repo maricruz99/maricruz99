@@ -188,7 +188,7 @@ export default function Component() {
     <div 
       className="min-h-screen bg-cover bg-center flex flex-col items-center justify-center p-4 sm:p-6 md:p-8"
       style={{
-        backgroundImage: "url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ComfyUI_00001_%20(1)-rGQ7HBVYEkVFQ5gL5hunF6HAHYIOIC.png')"
+        backgroundImage: "url('https://github.com/carcruz97/carcruz97/blob/main/forest.png')"
       }}
     >
       <div className="w-full max-w-2xl bg-black bg-opacity-30 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden border border-white border-opacity-20 mb-4">
