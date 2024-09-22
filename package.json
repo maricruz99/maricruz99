@@ -1,9 +1,13 @@
 {
-  "private": true,
+  "name": "ai-engineer-portfolio",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "dev": "next dev --turbo",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
+
   },
   "dependencies": {
     "next": "latest",
@@ -17,3 +21,4 @@
     "typescript": "^5.3.3"
   }
 }
+
