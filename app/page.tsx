@@ -233,7 +233,7 @@ export default function Component() {
       </div>
       <div className="w-full max-w-2xl bg-black bg-opacity-30 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden border border-white border-opacity-20 p-2 sm:p-3 md:p-4">
         <div className="flex flex-wrap justify-center gap-4 sm:gap-6">
-          <Link href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors">
+          <Link href="https://www.linkedin.com/in/carmen-cruzado/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors">
             <Linkedin className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">LinkedIn</span>
           </Link>
