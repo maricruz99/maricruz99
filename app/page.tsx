@@ -138,6 +138,10 @@ export default function Component() {
       "Escribe un comando para explorar el portafolio.",
     ]
   }
+  const TitleTerminal = {
+    en: ["Here begins 'The Forest'"],
+    es: ["Aquí empieza 'El Bosque'"]
+  }
 
   useEffect(() => {
     setOutput([])
