@@ -241,7 +241,7 @@ export default function Component() {
             <FileText className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Medium</span>
           </Link>
-          <Link href="https://x.com/carcruz97home" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-300 transition-colors">
+          <Link href="https://x.com/carcruz97" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-300 transition-colors">
             <Twitter className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Twitter</span>
           </Link>
