@@ -237,7 +237,7 @@ export default function Component() {
             <Linkedin className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">LinkedIn</span>
           </Link>
-          <Link href="https://medium.com/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-green-400 transition-colors">
+          <Link href="https://medium.com/@carcruz97" target="_blank" rel="noopener noreferrer" className="text-white hover:text-green-400 transition-colors">
             <FileText className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Medium</span>
           </Link>
