@@ -245,7 +245,7 @@ export default function Component() {
             <Twitter className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Twitter</span>
           </Link>
-          <Link href="https://replicate.com/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-purple-400 transition-colors">
+          <Link href="https://replicate.com/carcruz97" target="_blank" rel="noopener noreferrer" className="text-white hover:text-purple-400 transition-colors">
             <Share2 className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Replicate</span>
           </Link>
