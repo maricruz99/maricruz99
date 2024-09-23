@@ -110,7 +110,7 @@ export default function Component() {
         output: "Saving CV as PDF...\nCV saved successfully! You can find it in your downloads folder."
       },
       es: {
-        command: "guardar cv",
+        command: "CV",
         output: "Guardando CV como PDF...\n¡CV guardado con éxito! Puedes encontrarlo en tu carpeta de descargas."
       }
     }
@@ -123,7 +123,7 @@ export default function Component() {
     education: /^(education|formacion)$/i,
     contact: /^(contact|contacto)$/i,
     clear: /^(clear|clear)$/i,
-    savecv: /^(save cv|guardar cv)$/i
+    savecv: /^(save cv|CV)$/i
   }
 
   const welcomeMessage = {
