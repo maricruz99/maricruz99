@@ -198,7 +198,7 @@ export default function Component() {
             <div className="w-3 h-3 bg-green-500 rounded-full"></div>
           </div>
           <div className="flex-grow text-center">
-            <span className="text-sm text-white font-medium">AI Engineer Portfolio</span>
+            <span className="text-sm text-white font-medium">The Carmen's Forest</span>
           </div>
         </div>
         <div className="bg-black bg-opacity-30 text-white p-2 sm:p-3 md:p-4 font-mono text-xs sm:text-sm">
