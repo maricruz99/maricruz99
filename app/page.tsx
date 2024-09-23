@@ -1,6 +1,6 @@
 'use client'
 import { useState, useEffect, useRef } from 'react'
-import { Linkedin, FileText, Twitter, Bot , Download, Github } from 'lucide-react'
+import { Linkedin, FileText, Twitter, Bot , Download, Github,CalendarClock  } from 'lucide-react'
 import Link from 'next/link'
 
 const UKFlag = () => (
@@ -248,6 +248,10 @@ export default function Component() {
           <Link href="https://replicate.com/carcruz97" target="_blank" rel="noopener noreferrer" className="text-white hover:text-purple-400 transition-colors">
             <Bot  className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Replicate</span>
+          </Link>
+          <Link href="https://calendly.com/carmencruzado97/data-ai" target="_blank" rel="noopener noreferrer" className="text-white hover:text-green-400 transition-colors">
+            <CalendarClock className="w-5 h-5 sm:w-6 sm:h-6" />
+            <span className="sr-only">Calendar</span>
           </Link>
           <Link href="https://github.com/carcruz97/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400 transition-colors">
             <Github className="w-5 h-5 sm:w-6 sm:h-6" />
