@@ -187,7 +187,7 @@ export default function Component() {
     <div 
       className="min-h-screen bg-cover bg-center flex flex-col items-center justify-center p-4 sm:p-6 md:p-8"
       style={{
-        backgroundImage: "url('https://github.com/carcruz97/carcruz97/carcruz97/blob/main/forest.png')"
+        backgroundImage: "url('https://raw.githubusercontent.com/carcruz97/carcruz97/refs/heads/main/forest.png')"
       }}
     >
       <div className="w-full max-w-2xl bg-black bg-opacity-30 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden border border-white border-opacity-20 mb-4">
