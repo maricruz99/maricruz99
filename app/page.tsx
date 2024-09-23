@@ -1,6 +1,6 @@
 'use client'
 import { useState, useEffect, useRef } from 'react'
-import { Linkedin, FileText, Twitter, Share2, Download, Github } from 'lucide-react'
+import { Linkedin, FileText, Twitter, Bot , Download, Github } from 'lucide-react'
 import Link from 'next/link'
 
 const UKFlag = () => (
@@ -246,7 +246,7 @@ export default function Component() {
             <span className="sr-only">Twitter</span>
           </Link>
           <Link href="https://replicate.com/carcruz97" target="_blank" rel="noopener noreferrer" className="text-white hover:text-purple-400 transition-colors">
-            <Share2 className="w-5 h-5 sm:w-6 sm:h-6" />
+            <Bot  className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Replicate</span>
           </Link>
           <Link href="https://github.com/carcruz97/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-400 transition-colors">
