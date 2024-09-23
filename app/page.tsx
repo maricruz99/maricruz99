@@ -46,13 +46,13 @@ export default function Component() {
         output: "Soy un Ingeniero de Software de IA con 5 años de experiencia en el desarrollo de soluciones de IA de vanguardia."
       }
     },
-    skills: {
+    stack: {
       en: {
-        command: "skills",
+        command: "stack",
         output: "Python, TensorFlow, PyTorch, Scikit-learn, Natural Language Processing, Computer Vision, Reinforcement Learning, Docker, Git"
       },
       es: {
-        command: "habilidades",
+        command: "stack",
         output: "Python, TensorFlow, PyTorch, Scikit-learn, Procesamiento del Lenguaje Natural, Visión por Computadora, Aprendizaje por Refuerzo, Docker, Git"
       }
     },
@@ -80,7 +80,7 @@ export default function Component() {
         output: "Ph.D. in Computer Science, specialization in Machine Learning - Stanford University (2018-2022)"
       },
       es: {
-        command: "educacion",
+        command: "formacion",
         output: "Doctorado en Ciencias de la Computación, especialización en Aprendizaje Automático - Universidad de Stanford (2018-2022)"
       }
     },
@@ -100,7 +100,7 @@ export default function Component() {
         output: "clear"
       },
       es: {
-        command: "limpiar",
+        command: "clear",
         output: "clear"
       }
     },
@@ -118,11 +118,11 @@ export default function Component() {
 
   const commandRegexes = {
     about: /^(about|sobre)$/i,
-    skills: /^(skills|habilidades)$/i,
+    stack: /^(stack|stack)$/i,
     projects: /^(projects|proyectos)$/i,
-    education: /^(education|educacion)$/i,
+    education: /^(education|formacion)$/i,
     contact: /^(contact|contacto)$/i,
-    clear: /^(clear|limpiar)$/i,
+    clear: /^(clear|clear)$/i,
     savecv: /^(save cv|guardar cv)$/i
   }
 
