@@ -128,7 +128,7 @@ export default function Component() {
 
   const welcomeMessage = {
     en: [
-      "Welcome to AI Engineer's Portfolio.",
+      "Welcome to Data Engineer's Portfolio.",
       "Available commands: " + Object.keys(commands).map(cmd => commands[cmd as keyof typeof commands].en.command).join(', '),
       "Type a command to explore the portfolio.",
     ],
@@ -139,7 +139,7 @@ export default function Component() {
     ]
   }
   const TitleTerminal = {
-    en: ["Here begins 'The Forest'"],
+    en: ["Here begins 'The Rivera'"],
     es: ["Aquí empieza 'El Bosque'"]
   }
 
@@ -202,7 +202,7 @@ export default function Component() {
             <div className="w-3 h-3 bg-green-500 rounded-full"></div>
           </div>
           <div className="flex-grow text-center">
-            <span className="text-sm text-white font-medium">The Maria's Forest</span>
+            <span className="text-sm text-white font-medium">The Maria's Rivera</span>
           </div>
         </div>
         <div className="bg-black bg-opacity-30 text-white p-2 sm:p-3 md:p-4 font-mono text-xs sm:text-sm">
