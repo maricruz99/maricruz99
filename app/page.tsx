@@ -202,7 +202,7 @@ export default function Component() {
             <div className="w-3 h-3 bg-green-500 rounded-full"></div>
           </div>
           <div className="flex-grow text-center">
-            <span className="text-sm text-white font-medium">The Carmen's Forest</span>
+            <span className="text-sm text-white font-medium">The Maria's Forest</span>
           </div>
         </div>
         <div className="bg-black bg-opacity-30 text-white p-2 sm:p-3 md:p-4 font-mono text-xs sm:text-sm">
@@ -237,7 +237,7 @@ export default function Component() {
       </div>
       <div className="w-full max-w-2xl bg-black bg-opacity-30 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden border border-white border-opacity-20 p-2 sm:p-3 md:p-4">
         <div className="flex flex-wrap justify-center gap-4 sm:gap-6">
-          <Link href="https://www.linkedin.com/in/carmen-cruzado/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors">
+          <Link href="https://www.linkedin.com/in/Maria-cruzado/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors">
             <Linkedin className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">LinkedIn</span>
           </Link>
@@ -253,7 +253,7 @@ export default function Component() {
             <Bot  className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Replicate</span>
           </Link>
-          <Link href="https://calendly.com/carmencruzado97/data-ai" target="_blank" rel="noopener noreferrer" className="text-white hover:text-green-400 transition-colors">
+          <Link href="https://calendly.com/Mariacruzado97/data-ai" target="_blank" rel="noopener noreferrer" className="text-white hover:text-green-400 transition-colors">
             <CalendarClock className="w-5 h-5 sm:w-6 sm:h-6" />
             <span className="sr-only">Calendar</span>
           </Link>
