@@ -1,26 +1,25 @@
-# Hi there, I’m María Cruzado 👋
+# Hi there, I'm Maria Cruzado 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariacruzado99)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mari.cruzado999@gmail.com)
 
 ## About Me 🚀
-:contentReference[oaicite:1]{index=1}
 
-## What I Do 💼
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
+I’m a Business Analyst and Big Data Specialist driven by a passion for optimizing operations and unlocking insights through AI and data systems. From entrepreneurial ventures to museum tech transformation, I thrive at the intersection of analytics, strategy, and innovation.
 
-## Tech & Tools 🛠️
-*(Tools aren't listed on LinkedIn, but typical for my field include)*:
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}
+## What I Do 💻
 
-## Professional Stats 📈
-- :contentReference[oaicite:7]{index=7}
-- 🌎 **Location**: Argentina
-- :contentReference[oaicite:8]{index=8} :contentReference[oaicite:9]{index=9}
+- 📈 Business Analysis & Data Strategy
+- 🧠 AI-Driven Solutions for operational efficiency
+- 🛠️ End-to-End Data Engineering & ETL workflows
+- 🔐 InfoSec practices & AI system optimization
 
-## Let's Connect! 🤝
-:contentReference[oaicite:10]{index=10}
+## Tech Stack 🔧
 
----
-
-*Extracted from LinkedIn (Public Accountant · Private Consulting · Argentina · 357 connections)* :contentReference[oaicite:11]{index=11}
+```python
+tech_stack = {
+    "Languages": ["Python", "SQL", "Bash"],
+    "Data/AI": ["ETL", "NLP", "Pattern Recognition", "Big Data"],
+    "Tools": ["PowerShell", "Excel", "AI Software", "Front-End Dev"],
+    "Domains": ["Digital Transformation", "Research", "Finance", "Museums"]
+}
